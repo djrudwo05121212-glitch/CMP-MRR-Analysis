@@ -1,0 +1,4 @@
+﻿REGIME,STAGE,CHAMBER,TARGET_MRR,TARGET_BAND_LOWER,TARGET_BAND_UPPER,N,DEFINITION
+Stage A–Chamber 1,A,1.0,151.0689,148.561575,153.64155,363,과거 중앙값을 분석용 Target으로 사용; Q1–Q3는 중심 50% 범위
+Stage A–Chamber 4,A,4.0,74.1186,69.690675,77.733,795,과거 중앙값을 분석용 Target으로 사용; Q1–Q3는 중심 50% 범위
+Stage B–Chamber 4,B,4.0,81.512475,73.3840875,86.746725,810,과거 중앙값을 분석용 Target으로 사용; Q1–Q3는 중심 50% 범위

@@ -1,0 +1,4 @@
+﻿REGIME,MODEL,N_TEST,RMSE,MAE,R2,BEST_PARAMS
+Stage A–Chamber 1,Random Forest,73,3.1762501085234125,2.541219125448727,0.30141918661522804,"{""model__max_depth"": 10, ""model__max_features"": 0.9, ""model__min_samples_leaf"": 1, ""model__n_estimators"": 300}"
+Stage A–Chamber 4,Random Forest,163,2.827590299713438,2.1288369563954173,0.8050271944065845,"{""model__max_depth"": 10, ""model__max_features"": 0.9, ""model__min_samples_leaf"": 1, ""model__n_estimators"": 300}"
+Stage B–Chamber 4,XGBoost,186,3.5435517480864123,2.582774618234941,0.8274434168141481,"{""model__colsample_bytree"": 1.0, ""model__learning_rate"": 0.1, ""model__max_depth"": 4, ""model__n_estimators"": 200, ""model__reg_lambda"": 10, ""model__subsample"": 0.8}"

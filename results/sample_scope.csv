@@ -1,0 +1,9 @@
+﻿STAGE,CHAMBER,N,USE_IN_MAIN_ANALYSIS,REASON
+B,4.0,810,True,표본 충분
+A,4.0,795,True,표본 충분
+A,1.0,363,True,표본 충분
+B,5.0,4,False,표본 부족—참고자료로 분리
+A,5.0,2,False,표본 부족—참고자료로 분리
+A,3.0,1,False,표본 부족—참고자료로 분리
+A,6.0,1,False,표본 부족—참고자료로 분리
+B,6.0,1,False,표본 부족—참고자료로 분리
