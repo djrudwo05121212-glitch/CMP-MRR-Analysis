@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+catboost_info/
+.DS_Store
+node_modules/
+data/
+*.zip
